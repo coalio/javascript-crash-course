@@ -7,7 +7,3 @@ export const ItemN = () => {
         <li>This is the {name}</li>
     )
 }
-
-/**
- * feature/ItemN
- */
