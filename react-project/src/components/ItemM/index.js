@@ -1,7 +1,7 @@
-import React from "react"
+import React from "react";
 
 export const ItemM = () => {
     return (
-        <li>this is the ItemM</li>
+        <li>This is the ItemM</li>
     )
 }
