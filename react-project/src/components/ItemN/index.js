@@ -6,4 +6,4 @@ export const ItemN = () => {
     return (
         <li>This is the {name}</li>
     )
-}
+}   
